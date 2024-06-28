@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "quick_sort",
+            "request": "launch",
+            "mainClass": "quick_sort",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "merge_sort",
+            "request": "launch",
+            "mainClass": "merge_sort",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "fsa",
+            "request": "launch",
+            "mainClass": "fsa",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "Innermerge_sort$Innermerge_sort",
+            "request": "launch",
+            "mainClass": "Innermerge_sort$Innermerge_sort",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "merge_sort$merge_sort",
+            "request": "launch",
+            "mainClass": "merge_sort$merge_sort",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "occurrences_of_key",
+            "request": "launch",
+            "mainClass": "occurrences_of_key",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "binary_string_prob",
+            "request": "launch",
+            "mainClass": "binary_string_prob",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "friends_pairing",
+            "request": "launch",
+            "mainClass": "friends_pairing",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "remove_duplicate_string",
+            "request": "launch",
+            "mainClass": "remove_duplicate_string",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "tiling",
+            "request": "launch",
+            "mainClass": "tiling",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "x_power_n",
+            "request": "launch",
+            "mainClass": "x_power_n",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "fib",
+            "request": "launch",
+            "mainClass": "fib",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "factor",
+            "request": "launch",
+            "mainClass": "factor",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "print_decresing_order",
+            "request": "launch",
+            "mainClass": "print_decresing_order",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "design",
+            "request": "launch",
+            "mainClass": "design",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "string_compression",
+            "request": "launch",
+            "mainClass": "string_compression",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "uppercase",
+            "request": "launch",
+            "mainClass": "uppercase",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "butterfly_pattern",
+            "request": "launch",
+            "mainClass": "butterfly_pattern",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "daimond",
+            "request": "launch",
+            "mainClass": "daimond",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "floyds_triangle",
+            "request": "launch",
+            "mainClass": "floyds_triangle",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "hollow_new",
+            "request": "launch",
+            "mainClass": "hollow_new",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "hollow_rhambus",
+            "request": "launch",
+            "mainClass": "hollow_rhambus",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "inverted_pyramid",
+            "request": "launch",
+            "mainClass": "inverted_pyramid",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "inverted_pyramid_nums",
+            "request": "launch",
+            "mainClass": "inverted_pyramid_nums",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "pairs_in_arr",
+            "request": "launch",
+            "mainClass": "pairs_in_arr",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "reverse_array",
+            "request": "launch",
+            "mainClass": "reverse_array",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "subarray",
+            "projectName": "java_e303a776"
+        },
+        {
+            "type": "java",
+            "name": "triangle_01",
+            "request": "launch",
+            "mainClass": "triangle_01",
+            "projectName": "java_e303a776"
+        }
+    ]
+}
