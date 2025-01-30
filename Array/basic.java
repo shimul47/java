@@ -22,13 +22,13 @@ public class basic {
     
     public static String touppercase(String x){
         StringBuilder st = new StringBuilder ("");
-        char ch = Character.touppercase(x.charAt(0));
+        char ch = Character.toUpperCase(x.charAt(0));
         st.append(ch);
         for (int i = 1; i<x.length();i++){
             if (x.charAt(i)==' ' && i<x.length()-1){
                 st.append(x.charAt(i));
                 i++;
-                st.append(Character.touppercase(x.charAt(i)));
+                st.append(Character.toUpperCase(x.charAt(i)));
 
             }else{
                 st.append(x.charAt(i));
