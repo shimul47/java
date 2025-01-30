@@ -24,3 +24,5 @@ for i in range(k):
         sum-=temp2
 
 print("k=",k,"  Max=",maximum,)
+
+# codforces problem
